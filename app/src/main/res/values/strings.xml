@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Official Quidditch Counter</string>
+    <string name="gryffindor_team">Gryffindor</string>
+    <string name="slytherin_team">Slytherin</string>
+    <string name="score_gry">0</string>
+    <string name="score_sly">0</string>
+    <string name="goal_button_gry">Goal</string>
+    <string name="goal_button_sly">Goal</string>
+    <string name="snitch_button_gry">Snitch</string>
+    <string name="snitch_button_sly">Snitch</string>
+    <string name="fouls_gry">Fouls</string>
+    <string name="fouls_sly">Fouls</string>
+    <string name="fouls_number_gry">0</string>
+    <string name="fouls_number_sly">0</string>
+    <string name="start_over_button">Start Over</string>
+</resources>
